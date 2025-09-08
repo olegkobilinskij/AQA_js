@@ -1,0 +1,22 @@
+{
+  "name": "aqa_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_basics/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegkobilinskij/AQA_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olegkobilinskij/AQA_js/issues"
+  },
+  "homepage": "https://github.com/olegkobilinskij/AQA_js#readme",
+  "dependencies": {
+    "chalk": "^5.6.0"
+  }
+}
