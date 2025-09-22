@@ -1,9 +1,10 @@
+const num = 6;
 for (i = 1; i <= 10; i++) {
-    console.log(i * 7)
+    console.log(`${num} * ${i} = ${num * i}`)
 }
 
 let count = 1;
 while (count <= 10) {
-    console.log(count * 7);
+    console.log(`${num} * ${count} = ${num * count}`)
     count++;
 }
