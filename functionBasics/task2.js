@@ -1,5 +1,5 @@
-function checkAge (age) {
+function isPersonAdult (age) {
     return age >= 18;
 }
-const isAdult = checkAge(19);
+const isAdult = isPersonAdult(17);
 console.log(isAdult ? "Особа доросла" : "Особа не доросла");
